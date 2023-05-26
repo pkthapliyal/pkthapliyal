@@ -10,7 +10,5 @@
 ### Contact with me 
 
 [![text](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pkthapliyal)
-[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pkthapliyal)
-https://pkthapliyal.github.io/
+[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pkthapliyal) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)(https://pkthapliyal.github.io/)
 
-[![text](https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://pkthapliyal.github.io/)
