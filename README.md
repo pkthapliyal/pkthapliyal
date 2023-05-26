@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=pkthapliyal)]
+![trophy](https://github-profile-trophy.vercel.app/?username=pkthapliyal)
 
 
 - 🌱 I’m currently learning Node.js...
