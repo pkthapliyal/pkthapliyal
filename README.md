@@ -1,4 +1,8 @@
 ### Hi there 👋
+<h1 style="align:center">Welcome to my profile !</h1>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Hi+!+myself+Pankaj+🧑🏻;I+am+a+fullstack+developer+💻;Traveller+🌍;Curious+to+learn+new+things+!)](https://git.io/typing-svg)
+
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=pkthapliyal)
 
