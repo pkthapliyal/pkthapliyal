@@ -4,7 +4,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&center=true&vCenter=true&width=1000&color=F71919&lines=Hi+!+myself+Pankaj+🧑🏻;I+am+a+fullstack+developer+💻;Traveller+🌍;Curious+to+learn+new+things+!)](https://git.io/typing-svg)
 
 
-<p align="center">Aspiring Software development professional with good communication skills and 9 months of hands-on experience in web development. Collaborative, team player who is proficient in working with interdisciplinary teams and executing goal-oriented projects. I am strongly interested in obtaining a software developer position to work on enhancing the product experience.</p>
+<p align="center">Aspiring Software development professional with good communication skills and hands-on experience in web development. Collaborative, team player who is proficient in working with interdisciplinary teams and executing goal-oriented projects. I am strongly interested in obtaining a software developer position to work on enhancing the product experience.</p>
 <hr/>
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=pkthapliyal)
